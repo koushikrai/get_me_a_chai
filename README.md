@@ -1,2 +1,2 @@
-# get_me_a_chai
+# get_me_chai
 My personal self built patreon site 
